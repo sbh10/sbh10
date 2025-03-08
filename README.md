@@ -1,4 +1,4 @@
-- 🌱 I’m currently learning  React.
+- 🌱 I’m learning.
 - 📫 How to reach me: a message will be fine.
 
 <!---
